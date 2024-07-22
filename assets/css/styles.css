@@ -365,6 +365,11 @@ img {
   color: #fff;
   margin: 0 var(--mb-2);
 }
+.footer__icon_black {
+  font-size: 2rem;
+  color: #00d30b;
+  margin: 0 var(--mb-2);
+}
 .footer__copy {
   font-size: var(--smaller-font-size);
 }
